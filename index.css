@@ -228,11 +228,12 @@ header table {
 #education {
     width:92vw;
     padding:6vh 4vw;
+    font-weight:bold;
 }
 #education h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(255, 44, 90);
-    width:10%;
+    width:8%;
 }
 
 #contact {
